@@ -7,3 +7,6 @@
 
 # AoC forbidden inputs
 input/*
+
+# Execs
+aoc
