@@ -1,0 +1,11 @@
+[workspace]
+authors = ["jocago <jocago@gmail.com>"]
+channels = ["https://conda.modular.com/max", "conda-forge"]
+name = "aoc2015"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+mojo = ">=1.2.0,<2"

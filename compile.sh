@@ -1,0 +1,1 @@
+pixi run mojo build src/main.mojo -o aoc
