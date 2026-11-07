@@ -28,11 +28,11 @@ def part2(input: String) raises -> Int:
 
 
 
-def solve(part: Int) raises -> String:
+def solve() raises -> String:
     var output: String
     var input: String
     with open("input/day01.txt", "r") as f:
         input = f.read()
-    output = String(part1(input)) if part == 1 else String(part2(input))
+    output = String(part2(input))
 
     return output

@@ -6,6 +6,8 @@ platforms = ["osx-arm64"]
 version = "0.1.0"
 
 [tasks]
+# aoc = "mojo -I . src/main.mojo -o answer.aoc"
 
 [dependencies]
 mojo = ">=1.2.0,<2"
+

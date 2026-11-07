@@ -1,8 +1,8 @@
-from days.day01 import solve
+from day02 import solve
 
 
 def main():
     try:
-        print(solve(2))
+        print(solve())
     except e:
         print(String(e))

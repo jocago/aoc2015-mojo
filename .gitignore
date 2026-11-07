@@ -9,4 +9,7 @@
 input/*
 
 # Execs
-aoc
+answer.aoc
+
+# Machine
+*.DS_Store
